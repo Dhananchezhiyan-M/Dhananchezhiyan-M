@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dhananchezhiyan M</h1>
-<h3 align="center">Full-Stack Web Developer | Backend & Real-Time Systems Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhananchezhiyan+M;Full-Stack+Web+Developer;Backend+%26+Real-Time+Systems+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhananchezhiyan-M&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,13 +9,32 @@
 ---
 
 ### 🚀 About Me:
-- 🎓 B.E. Computer Science and Engineering @ **SSN College of Engineering**, Kalavakkam (2023 – Present)
-- 💼 Software Developer Intern @ **L&Q Technologies Private Limited**, Bengaluru (May 2026 – Jun 2026)
-- 🛠️ Worked with **React.js, React Native, Next.js**, and **AI Native Engineering** during my internship
-- 🌐 Built full-stack projects like a real-time chat app and a tourist-place discovery web app
-- 📚 Strong foundation in **DSA, OOP, DBMS, Computer Networks, and Operating Systems**
-- 💬 Ask me about React.js, Node.js, Express.js, MySQL, and Full-Stack Web Development
-- 📫 Reach me at **dhanamunuswamy2006@gmail.com**
+Aspiring Computer Science Engineering student with a strong foundation in core computing concepts and practical experience in applying technology to solve real-world problems. Passionate about learning emerging technologies, with deep interest in networking and innovative solutions. Interested in enhancing technical skills and contributing to impactful advancements across various domains of computer science.
+
+---
+
+### 🎓 Education:
+
+| Level | Institution | Score | Year |
+|---|---|---|---|
+| **B.E. CSE** | SSN College of Engineering, Chennai | CGPA: **7.57** | 2023–2027 |
+| **12th Grade** | Swami Vivekananda Matriculation Higher Secondary School | 95.5% | 2022–2023 |
+
+---
+
+### 💼 Experience:
+
+**Software Developer Intern**
+**L&Q Technologies** · Internship
+📅 May 2026 – Jun 2026 ·
+📍 Bengaluru, Karnataka, India · On-site
+
+- Worked with **React Native, Next.js, and AI Native Engineering** as part of the internship program.
+- Gained hands-on experience in modern web and mobile application development through real-world project assignments.
+- Strengthened skills in frontend development, collaborative software development practices, and problem-solving.
+- Learned industry-standard development workflows while working in a professional team environment.
+
+*Skills: Software Development, Next.js, React Native, AI Native Engineering, and more*
 
 ---
 
@@ -29,7 +49,7 @@
   <a href="https://leetcode.com/u/Dhananchezhiyan_M/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:dhanamunuswamy2006@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhanamunuswamy2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -77,11 +97,40 @@
 
 ---
 
+### 🚀 Featured Projects:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/Dhananchezhiyan-M/Chat-Application">Chat Application</a></h4>
+      Real-time full-stack chat app with public/private rooms, typing indicators, and persistent storage.
+      <br/><br/>
+      <i>Tech: React.js, Node.js, Express.js, Socket.IO, MongoDB</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/Dhananchezhiyan-M/Tour-Mate-Web-Development-">Tour-Mate</a></h4>
+      Full-stack travel & campground discovery app with auth, maps, and reviews. <a href="https://tour-mate-bin8.onrender.com/">Live Demo</a>
+      <br/><br/>
+      <i>Tech: Node.js, Express.js, MongoDB, EJS, Passport.js</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>📌 <a href="https://github.com/Dhananchezhiyan-M/University-Course-Registration-System-C-Project">University Course Registration System</a></h4>
+      Console-based university course registration system managing students, courses, and enrollments via structured C programming.
+      <br/><br/>
+      <i>Tech: C, File Handling, Structured Programming</i>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhananchezhiyan-M&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananchezhiyan-M&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Dhananchezhiyan-M&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dhananchezhiyan-M&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -98,14 +147,6 @@
 
 ---
 
-### 🚀 Featured Projects:
-
-- **[Chat Application](https://github.com/Dhananchezhiyan-M/Chat-Application)** — Real-time full-stack chat app with public/private rooms, typing indicators, and persistent storage. *(React.js, Node.js, Express.js, Socket.IO, MongoDB)*
-- **[Tour-Mate](https://github.com/Dhananchezhiyan-M/Tour-Mate-Web-Development-)** — Full-stack travel & campground discovery app with auth, maps, and reviews. [Live Demo](https://tour-mate-bin8.onrender.com/) *(Node.js, Express.js, MongoDB, EJS, Passport.js)*
-- **[University Course Registration System](https://github.com/Dhananchezhiyan-M/University-Course-Registration-System-C-Project)** — Console-based course registration system with structured programming. *(C, File Handling)*
-
----
-
 <p align="center">
-  <i>Thanks for visiting! ⭐ Star your favourite project and let's build something amazing together 🚀</i>
+  <i>Thanks for visiting!</i>
 </p>
